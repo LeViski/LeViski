@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website?label=foxstudio.com&style=for-the-badge&url=https%3A%2F%2Ffoxstudio.com)](LeViski)
 [![GitHub](https://img.shields.io/github/followers/LeViski?label=follow&style=for-the-badge)](LeViski)
-[![Twitter: levis](https://img.shields.io/twitter/follow/levis?style=for-the-badge)](https://twitter.com/levis)
+[![Instagram: levis](https://img.shields.io/instagram/follow/levis?style=for-the-badge)](https://twitter.com/levis)
 
 ## I'm a Student, Developer!!
 - 💬 Ask me about ... Anything
