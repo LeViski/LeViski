@@ -1,4 +1,4 @@
-[![Website](https://img.shields.io/website?label=foxstudio.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](LeViski)
+[![Website](https://img.shields.io/website?label=foxstudio.com&style=for-the-badge&url=https%3A%2F%2Ffoxstudio.com)](LeViski)
 
 
 ## I'm a Student, Developer!!
