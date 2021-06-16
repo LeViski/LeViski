@@ -42,6 +42,6 @@
 
 </details>
 
-[website]: http://exilecode.tk/
+[website]: https://www.youtube.com/channel/UCxkBJuf8dWFco_d8aircG6w
 [youtube]: https://www.youtube.com/channel/UCxkBJuf8dWFco_d8aircG6w
-[instagram]: https://www.instagram.com/_photoshare_/
+[instagram]: https://www.youtube.com/channel/UCxkBJuf8dWFco_d8aircG6w
