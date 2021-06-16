@@ -27,8 +27,6 @@
 
 ---
 
-  <summary>:zap: GitHub Stats</summary>
-
   <img align="left" alt="LeViski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeViski&show_icons=true&hide_border=true" />
 
 
