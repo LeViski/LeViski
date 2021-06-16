@@ -28,19 +28,11 @@
 
 ---
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="LeViski's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeViski&show_icons=true&hide_border=true" />
 
-</details>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="LeViski's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeViski" />
-
-</details>
 
 [website]: https://www.youtube.com/channel/UCxkBJuf8dWFco_d8aircG6w
 [youtube]: https://www.youtube.com/channel/UCxkBJuf8dWFco_d8aircG6w
