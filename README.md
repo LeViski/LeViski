@@ -1,7 +1,5 @@
 [![Website](https://img.shields.io/website?label=foxstudio.com&style=for-the-badge&url=https%3A%2F%2Ffoxstudio.com)](LeViski)
 [![GitHub](https://img.shields.io/github/followers/LeViski?label=follow&style=for-the-badge)](LeViski)
-[![Twitter: LeViski](https://img.shields.io/twitter/follow/LeViski?style=for-the-badge)](https://twitter.com/LeViski)
-[![İnstagram: LeViski](https://img.shields.io/instagram/follow/LeViski?style=for-the-badge)](https://instagram.com/LeViski)
 
 ## I'm a Student, Developer!!
 - 💬 Ask me about ... Anything
